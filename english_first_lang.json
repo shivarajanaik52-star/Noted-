@@ -1,0 +1,105 @@
+{
+  "subject": "English First Language",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Prose 1: A Wrong Man in Worker's Paradise",
+      "content": "Author: Rabindranath Tagore\nSummary/QA: Deals with an artist who reaches a worker's paradise where everyone is busy working, and how his art brings a playful and creative transformation to the busy inhabitants."
+    },
+    {
+      "id": 2,
+      "title": "Prose 2: The Elixir of Life",
+      "content": "Author: C.V. Raman\nSummary/QA: Explores the true value of water as the real 'elixir of life', discussing soil erosion, rain-fed tanks, and water conservation."
+    },
+    {
+      "id": 3,
+      "title": "Prose 3: The Gift of the Magi",
+      "content": "Author: O. Henry\nSummary/QA: A touching story about a young married couple who secretly sell their most prized possessions to buy Christmas gifts for each other, showing true love and sacrifice."
+    },
+    {
+      "id": 4,
+      "title": "Prose 4: Louis Pasteur, Conqueror of Disease",
+      "content": "Author: E. Margaret Carhart\nSummary/QA: Chronicles the life and scientific breakthroughs of Louis Pasteur in curing deadly diseases like anthrax and rabies."
+    },
+    {
+      "id": 5,
+      "title": "Prose 5: What is Moral Action?",
+      "content": "Author: M.K. Gandhi\nSummary/QA: Explores the core philosophy behind intention, duty, and true morality in human actions."
+    },
+    {
+      "id": 6,
+      "title": "Prose 6: The Eyes are Not Here",
+      "content": "Author: Ruskin Bond\nSummary/QA: A clever and subtle narrative about a blind train passenger interacting with a fellow traveler without revealing his blindness."
+    },
+    {
+      "id": 7,
+      "title": "Prose 7: The Girl who was Anne Frank",
+      "content": "Author: Louis de Jong\nSummary/QA: Highlights the tragic history and resilient character of Anne Frank through her world-famous diary."
+    },
+    {
+      "id": 8,
+      "title": "Prose 8: A Village Cricket Match",
+      "content": "Author: A.G. Macdonell\nSummary/QA: A humorous account of a chaotic and uniquely quirky village cricket match."
+    },
+    {
+      "id": 9,
+      "title": "Prose 9: Consumerist Culture",
+      "content": "Author: Divya Joshi\nSummary/QA: Examines modern consumer behavior, materialistic tendencies, and their impact on lifestyle."
+    },
+    {
+      "id": 10,
+      "title": "Prose 10: The Pie and the Tart (Play)",
+      "content": "Author: Hugh Chesterman\nSummary/QA: A lighthearted medieval farce involving two hungry vagabonds, a pastry cook, and a stolen pie."
+    },
+    {
+      "id": 11,
+      "title": "Poem 1: To a Pair of Sarus Cranes",
+      "content": "Author: Manmohan Acharya\nSummary/QA: A poignant poem depicting love, grief, and the brutal reality of poaching directed at mated birds."
+    },
+    {
+      "id": 12,
+      "title": "Poem 2: Abraham Lincoln's Letter to His Son's Teacher",
+      "content": "Author: Abraham Lincoln\nSummary/QA: A father's wise advice and expectations regarding values, integrity, and resilience for his son's education."
+    },
+    {
+      "id": 13,
+      "title": "Poem 3: Vachana",
+      "content": "Author: Basavanna / Sharanas\nSummary/QA: Explores spiritual devotion, dignity of labor, and honest living."
+    },
+    {
+      "id": 14,
+      "title": "Poem 4: Lochinvar",
+      "content": "Author: Sir Walter Scott\nSummary/QA: A romantic ballad about a brave young knight who gallantly crashes his beloved's wedding and elopes with her."
+    },
+    {
+      "id": 15,
+      "title": "Poem 5: A Poison Tree",
+      "content": "Author: William Blake\nSummary/QA: A symbolic poem detailing how suppressed anger grows and leads to destructive consequences."
+    },
+    {
+      "id": 16,
+      "title": "Poem 6: The Stolen Boat",
+      "content": "Author: William Wordsworth\nSummary/QA: An excerpt from 'The Prelude' capturing a young boy's guilt and awe-inspired encounter with nature after taking a boat without permission."
+    },
+    {
+      "id": 17,
+      "title": "Poem 7: Mending Wall",
+      "content": "Author: Robert Frost\nSummary/QA: Evaluates the boundaries, barriers, and human relationships symbolized by a stone wall shared by two neighbors."
+    },
+    {
+      "id": 18,
+      "title": "Supplementary Reading 1: The Treasure Island",
+      "content": "Author: Robert Louis Stevenson (Adapted)\nSummary/QA: An adventurous tale of pirates, hidden gold, maps, and young Jim Hawkins' courageous journey."
+    },
+    {
+      "id": 19,
+      "title": "Supplementary Reading 2: Narayanpur Incident",
+      "content": "Author: Shashi Deshpande (Adapted)\nSummary/QA: A patriotic story depicting children participating bravely in the Quit India Movement in a small village named Narayanpur."
+    },
+    {
+      "id": 20,
+      "title": "Supplementary Reading 3: Ulysses and the Cyclops",
+      "content": "Author: Charles Lamb (Adapted)\nSummary/QA: An adventurous Greek mythology tale highlighting how Ulysses uses clever wit and strategy to escape from the giant one-eyed monster Polyphemus."
+    }
+  ]
+}

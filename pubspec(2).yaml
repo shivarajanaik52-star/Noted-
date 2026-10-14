@@ -1,0 +1,10 @@
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/english_first_lang.json
+    - assets/kannada_second_lang.json
+    - assets/hindi_third_lang.json
+    - assets/maths.json
+    - assets/science.json
+    - assets/social_science.json
+

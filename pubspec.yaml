@@ -1,0 +1,16 @@
+content://com.android.externalstorage.documents/tree/primary%3ANew%20Folder::primary:New Folder/pubspec.yamlname: pdf_study_app
+description: A study PDF manager app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^8.0.0
+  syncfusion_flutter_pdfviewer: ^24.2.7
+
+flutter:
+  uses-material-design: true
